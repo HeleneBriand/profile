@@ -1,5 +1,5 @@
 body {
-  background-color: #F7F9FC;
+  background-color: red;
   font-family: 'Poppins', sans-serif;
   line-height: normal;
 }
@@ -99,7 +99,7 @@ i:hover {
 @media (max-width: 540px) {
   /* For a screen < 540px, this CSS will be read */
   .container {
-    width: 500px;
+    width: 400px;
   }
   .card-white > p {
     font-size: 12px;
